@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+input="-"
+
+input=$(cat $input | perl -p -e 's/(?=;)/\n/g' | grep -v \; | tr '\n' ' ')
+
+echo $input
