@@ -6,6 +6,7 @@ source ~/.config/nvim/fzf.vim
 source ~/.config/nvim/easymotion.vim
 source ~/.config/nvim/slime.vim
 source ~/.config/nvim/rainbow.vim
+source ~/.config/nvim/vlime.vim
 
 
 " not plugin spefic config

@@ -11,6 +11,8 @@ Plug 'tpope/vim-commentary'
 Plug 'easymotion/vim-easymotion'
 Plug 'jpalardy/vim-slime'
 Plug 'luochen1990/rainbow'
+" Plug 'l04m33/vlime', {'rtp': 'vim/'}
+Plug 'vlime/vlime'
 
 " :PlugInstall to install
 " :PlugClean to uninstall unlisted plugins
