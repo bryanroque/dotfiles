@@ -1,9 +1,7 @@
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/bryroque/.oh-my-zsh"
-export PATH=$HOME/.toolbox/bin:$PATH
+export ZSH="/Users/bryan/.oh-my-zsh"
 export PATH="/usr/local/sbin:$PATH"
-# for generating brazil language server
-export PATH=$PATH:~/workplace/ninja-utils/src/NinjaUtilsClojure/bin
+
 export KEYTIMEOUT=1
 
 export FZF_DEFAULT_COMMAND='fd --type f --hidden --follow --exclude .git'
@@ -29,3 +27,5 @@ source $ZSH/oh-my-zsh.sh
 
 autoload -U promptinit; promptinit
 prompt pure
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
