@@ -10,6 +10,7 @@ let g:coc_global_extensions = [
 " disables single quote for lisp
 autocmd FileType scheme let b:coc_pairs_disabled = ["'", "<"]
 autocmd FileType lisp let b:coc_pairs_disabled = ["'", "<"]
+autocmd FileType clojure let b:coc_pairs_disabled = ["'", "<"]
 
 
 " the default stuff

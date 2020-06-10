@@ -10,7 +10,7 @@ map <Leader>j <Plug>(easymotion-j)
 map <Leader>k <Plug>(easymotion-k)
 
 map <Leader>f <Plug>(easymotion-bd-f)
-map <Leader>F <Plug>(easymotion-bd-w)
+map <Leader>w <Plug>(easymotion-bd-w)
 
 " colors
 hi link EasyMotionTarget Search
