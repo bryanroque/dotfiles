@@ -15,6 +15,7 @@ Plug 'vlime/vlime'
 Plug 'guns/vim-sexp'
 Plug 'tpope/vim-sexp-mappings-for-regular-people'
 Plug 'tpope/vim-fireplace'
+Plug 'evanleck/vim-svelte', {'branch': 'main'}
 
 " :PlugInstall to install
 " :PlugClean to uninstall unlisted plugins
