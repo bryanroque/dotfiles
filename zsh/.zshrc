@@ -1,6 +1,7 @@
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/bryan/.oh-my-zsh"
 export PATH="/usr/local/sbin:$PATH"
+export PATH="$HOME/.emacs.d/bin:$PATH"
 
 export KEYTIMEOUT=1
 
