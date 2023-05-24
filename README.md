@@ -4,8 +4,8 @@ my configuration
 install brew
 install node
 
-git config --global user.name "Bryan Roque"
-git config --global user.email "roquebryan@gmail.com"
+git config --global user.name "Bryan Roque"  \
+git config --global user.email "roquebryan31@gmail.com"
 
 get karabiner and stow config
 
