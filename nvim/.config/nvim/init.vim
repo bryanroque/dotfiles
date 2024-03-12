@@ -1,5 +1,5 @@
 " config
-source ~/.config/nvim/coc.vim
+" source ~/.config/nvim/coc.vim
 source ~/.config/nvim/vim-plug.vim
 source ~/.config/nvim/nerdtree.vim
 source ~/.config/nvim/fzf.vim
